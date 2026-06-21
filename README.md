@@ -20,15 +20,6 @@ B.S. Statistics & Analytics + Computer Science, UNC Chapel Hill.
 
 ---
 
-## Featured Projects
-
-| Project | What it is |
-|---------|-----------|
-| [resume](https://ryantthomas.github.io/resume) | Online resume — HTML/CSS hosted on GitHub Pages |
-| [COMP_426_Project](https://github.com/ryantthomas/COMP_426_Project) | Music discovery web app built with Node.js + TasteDive API (UNC COMP 426) |
-
----
-
 ## GitHub Best Practices I Follow
 
 - **Descriptive READMEs** — every repo explains what it is, what it does, and how to run it
