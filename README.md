@@ -1,37 +1,17 @@
-# Ryan Thomas
+# Hey, I'm Ryan 👋
 
-> Data & Analytics Engineer — Python · SQL · dbt · Tableau · Power BI
+I'm a data / analytics engineer in Alexandria, VA. Right now I own the enterprise dbt model and reporting stack at the [National Fish and Wildlife Foundation](https://www.nfwf.org) — before that, four years in network operations at Cisco.
 
-I build data pipelines, reports, and analytics tools that help organizations make better decisions. Currently working as an **Enterprise Reporting Specialist at the [National Fish and Wildlife Foundation](https://www.nfwf.org)** (NFWF).
+Mostly I work in **dbt, BigQuery, Terraform, Python, and SQL**, across GCP and AWS.
+
+Lately I've been building things that let LLMs talk to real data safely: a personal data lake on GCP provisioned entirely in Terraform, and a couple of MCP servers. Those are pinned below.
+
+**[See the full portfolio →](https://ryantthomas.github.io)**
 
 B.S. Statistics & Analytics + Computer Science, UNC Chapel Hill.
 
 ---
 
-## Skills
+📫 ryanthomas624@gmail.com · [LinkedIn](https://linkedin.com/in/ryan-t-thomas) · [Résumé](https://ryantthomas.github.io/resume)
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python · SQL · JavaScript · HTML/CSS |
-| **BI & Reporting** | Tableau · Power BI · Excel |
-| **Data Tools** | dbt · DuckDB · pandas · SQLAlchemy |
-| **Databases** | PostgreSQL · SQL Server · SQLite |
-| **Dev Tools** | Git · GitHub · REST APIs · Flask |
-
----
-
-## GitHub Best Practices I Follow
-
-- **Descriptive READMEs** — every repo explains what it is, what it does, and how to run it
-- **`.gitignore` on every project** — no secrets, no `.env` files, no build artifacts committed
-- **Semantic commit messages** — `feat:`, `fix:`, `chore:` prefixes for a readable history
-- **Branch per feature** — main stays stable; work happens on short-lived branches with PRs
-- **Archive, don't delete** — old learning projects are archived, not erased; history is honest
-- **Pin only what I'm proud of** — profile shows curated work, not every experiment
-
----
-
-## Contact
-
-- **Email:** ryanthomas624@gmail.com
-- **Resume:** [ryantthomas.github.io/resume](https://ryantthomas.github.io/resume)
+Open to remote analytics / data engineering roles.
